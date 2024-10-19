@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+.title {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+header {
+    background: #e87800;
+    color: white;
+    padding: 0px 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #e87800;
+    color: white;
+}
+#logo{
+    width: 200px;
+    height: auto;
+    margin-bottom: 0;
+
+}
